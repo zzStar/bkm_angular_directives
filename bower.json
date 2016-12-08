@@ -1,0 +1,17 @@
+{
+  "name": "bkm-directives",
+  "homepage": "https://github.com/zzStar/bkm_angular_directives",
+  "authors": [
+    "star zhang <zhangmx.g@gmail.com>"
+  ],
+  "description": "bkm angularjs directives",
+  "main": "dist/mcs.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
