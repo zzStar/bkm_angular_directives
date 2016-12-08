@@ -5,7 +5,11 @@
     "star zhang <zhangmx.g@gmail.com>"
   ],
   "description": "bkm angularjs directives",
-  "main": "dist/mcs.js",
+  "main": [
+    "dist/global/mcs.js",
+    "dist/component/mcs.component.js",
+    "dist/component/mcs.component.css"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
